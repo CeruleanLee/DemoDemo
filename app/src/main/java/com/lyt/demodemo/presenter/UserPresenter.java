@@ -9,6 +9,7 @@ import com.lyt.demodemo.view.IUserView;
  * 说明：
  */
 public class UserPresenter {
+
     //通过Presenter 通过接口与view和modle 交互
     UserModel iUserModle;
     IUserView iUserView;
